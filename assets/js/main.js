@@ -753,10 +753,10 @@ $('#contactForm').on('submit', function(e){
 
 	$.ajax({
 		type: "POST",
-		url: "https://devzainali.github.io/inc/sendEmail.php",
+		url: "inc/sendEmail.php",
 		data: data
 	}).done(function(res){
-		console.log('fsdfasdfasfa');
+
 		var response = JSON.parse(res);
 
 		if ( response.OK ) {
