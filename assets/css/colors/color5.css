@@ -1,33 +1,33 @@
 .brand-text {
-    color: #00bcd4 !important;
+    color: #FE7448 !important;
 }
 
 .brand-text i {
-    color: #00bcd4 !important;
+    color: #FE7448 !important;
 }
 
 .brand-bg,
 .sweet-alert button {
-    background-color: #00bcd4 !important;
+    background-color: #FE7448 !important;
 }
 
 .waves-effect.waves-brand  {
-    background-color: rgba(0, 188, 212, 0.66);
+    background-color: rgba(254, 116, 72, 0.66);
 }
 
 .p-overlay {
-    background-color: rgba(0, 188, 212, 0.9);
+    background-color: rgba(254, 116, 72, 0.9);
 }
 
 
 .circle-loader .path {
-    stroke: #00bcd4;
+    stroke: #FE7448;
 }
 
 
 .side-nav  li.current a,
 .side-nav  li a:hover {
-    border-bottom-color: #00bcd4;
+    border-bottom-color: #FE7448;
 }
 
 .static-menu li i:hover,
@@ -44,7 +44,7 @@
 .share-post li a:hover,
 .com-title a,
 span.num {
-    color: #00bcd4;
+    color: #FE7448;
 }
 
 .singel-hr-inner,
@@ -57,42 +57,40 @@ span.num {
 .contact-form .submit-btn:focus,
 a.tags,
 .blog-inner .card-content a.right:active {
-    background-color: #00bcd4;
+    background-color: #FE7448;
 }
 
 .contact-form .materialize-textarea:focus,
 .contact-form .input-box:focus {
-    border-color: #00bcd4;
-    box-shadow: 0px 1px 0px #00bcd4;
+    border-color: #FE7448;
+    box-shadow: 0px 1px 0px #FE7448;
 }
 
 
 .single-post-content blockquote {
-    border-left: 5px solid #00bcd4;
+    border-left: 5px solid #FE7448;
 }
 
-
-
 @-webkit-keyframes color {
-    0%   {stroke: #00bcd4;}
-    20%  {stroke: #00bcd4;}
-    25%  {stroke: #00bcd4;}
-    45%  {stroke: #00bcd4;}
-    50%  {stroke: #00bcd4;}
-    70%  {stroke: #00bcd4;}
-    75%  {stroke: #00bcd4;}
-    95%  {stroke: #00bcd4;}
+    0%   {stroke: #FE7448;}
+    20%  {stroke: #FE7448;}
+    25%  {stroke: #FE7448;}
+    45%  {stroke: #FE7448;}
+    50%  {stroke: #FE7448;}
+    70%  {stroke: #FE7448;}
+    75%  {stroke: #FE7448;}
+    95%  {stroke: #FE7448;}
 }
 
 @keyframes color {
-    0%   {stroke: #00bcd4;}
-    20%  {stroke: #00bcd4;}
-    25%  {stroke: #00bcd4;}
-    45%  {stroke: #00bcd4;}
-    50%  {stroke: #00bcd4;}
-    70%  {stroke: #00bcd4;}
-    75%  {stroke: #00bcd4;}
-    95%  {stroke: #00bcd4;}
+    0%   {stroke: #FE7448;}
+    20%  {stroke: #FE7448;}
+    25%  {stroke: #FE7448;}
+    45%  {stroke: #FE7448;}
+    50%  {stroke: #FE7448;}
+    70%  {stroke: #FE7448;}
+    75%  {stroke: #FE7448;}
+    95%  {stroke: #FE7448;}
 }
 
 
@@ -102,6 +100,6 @@ a.tags,
 
 
 .menu-select [type="radio"]:checked + label:after {
-    border-color: #00bcd4;
-    background-color: #00bcd4;
+    border-color: #FE7448;
+    background-color: #FE7448;
 }

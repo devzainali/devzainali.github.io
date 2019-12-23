@@ -1,33 +1,33 @@
 .brand-text {
-    color: #00bcd4 !important;
+    color: #EAB82E !important;
 }
 
 .brand-text i {
-    color: #00bcd4 !important;
+    color: #EAB82E !important;
 }
 
 .brand-bg,
 .sweet-alert button {
-    background-color: #00bcd4 !important;
+    background-color: #EAB82E !important;
 }
 
 .waves-effect.waves-brand  {
-    background-color: rgba(0, 188, 212, 0.66);
+    background-color: rgba(234, 185, 46, 0.66);
 }
 
 .p-overlay {
-    background-color: rgba(0, 188, 212, 0.9);
+    background-color: rgba(234, 185, 46, 0.9);
 }
 
 
 .circle-loader .path {
-    stroke: #00bcd4;
+    stroke: #EAB82E;
 }
 
 
 .side-nav  li.current a,
 .side-nav  li a:hover {
-    border-bottom-color: #00bcd4;
+    border-bottom-color: #EAB82E;
 }
 
 .static-menu li i:hover,
@@ -44,7 +44,7 @@
 .share-post li a:hover,
 .com-title a,
 span.num {
-    color: #00bcd4;
+    color: #EAB82E;
 }
 
 .singel-hr-inner,
@@ -57,42 +57,40 @@ span.num {
 .contact-form .submit-btn:focus,
 a.tags,
 .blog-inner .card-content a.right:active {
-    background-color: #00bcd4;
+    background-color: #EAB82E;
 }
 
 .contact-form .materialize-textarea:focus,
 .contact-form .input-box:focus {
-    border-color: #00bcd4;
-    box-shadow: 0px 1px 0px #00bcd4;
+    border-color: #EAB82E;
+    box-shadow: 0px 1px 0px #EAB82E;
 }
 
 
 .single-post-content blockquote {
-    border-left: 5px solid #00bcd4;
+    border-left: 5px solid #EAB82E;
 }
 
-
-
 @-webkit-keyframes color {
-    0%   {stroke: #00bcd4;}
-    20%  {stroke: #00bcd4;}
-    25%  {stroke: #00bcd4;}
-    45%  {stroke: #00bcd4;}
-    50%  {stroke: #00bcd4;}
-    70%  {stroke: #00bcd4;}
-    75%  {stroke: #00bcd4;}
-    95%  {stroke: #00bcd4;}
+    0%   {stroke: #EAB82E;}
+    20%  {stroke: #EAB82E;}
+    25%  {stroke: #EAB82E;}
+    45%  {stroke: #EAB82E;}
+    50%  {stroke: #EAB82E;}
+    70%  {stroke: #EAB82E;}
+    75%  {stroke: #EAB82E;}
+    95%  {stroke: #EAB82E;}
 }
 
 @keyframes color {
-    0%   {stroke: #00bcd4;}
-    20%  {stroke: #00bcd4;}
-    25%  {stroke: #00bcd4;}
-    45%  {stroke: #00bcd4;}
-    50%  {stroke: #00bcd4;}
-    70%  {stroke: #00bcd4;}
-    75%  {stroke: #00bcd4;}
-    95%  {stroke: #00bcd4;}
+    0%   {stroke: #EAB82E;}
+    20%  {stroke: #EAB82E;}
+    25%  {stroke: #EAB82E;}
+    45%  {stroke: #EAB82E;}
+    50%  {stroke: #EAB82E;}
+    70%  {stroke: #EAB82E;}
+    75%  {stroke: #EAB82E;}
+    95%  {stroke: #EAB82E;}
 }
 
 
@@ -102,6 +100,6 @@ a.tags,
 
 
 .menu-select [type="radio"]:checked + label:after {
-    border-color: #00bcd4;
-    background-color: #00bcd4;
+    border-color: #EAB82E;
+    background-color: #EAB82E;
 }
