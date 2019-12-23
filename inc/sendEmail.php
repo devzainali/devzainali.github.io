@@ -44,11 +44,11 @@ if($_POST) {
 	// $headers .= "Reply-To: ". $email . "\r\n";
 	// $headers .= "MIME-Version: 1.0\r\n";
 	// $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
-
-	$to = 'developerzainali@gmail.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
+	$email_address = 'dev.zainali@gmail.com';
+	$to = 'dev.zainali@gmail.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
 	$email_subject = "Website Contact Form:  $name";
 	$email_body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n$message";
-	$headers = "From: noreply@yourdomain.com\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
+	$headers = "From: noreply@devzainali.github.io\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
 	$headers .= "Reply-To: $email_address";
 
 	if ( empty($error) ) {
